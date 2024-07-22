@@ -1,4 +1,4 @@
-# Google authentication extension for EverShop
+# Special Price extension for EverShop
 
 This extension allows admin to ad special price to a product.
 

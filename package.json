@@ -1,6 +1,6 @@
 {
   "name": "@evershop/special_price",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "Special Price Extension for EverShop",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

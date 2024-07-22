@@ -1,6 +1,6 @@
-# Special Price extension for EverShop
+# Special Price extension for Evershop
 
-This extension allows admin to ad special price to a product.
+This extension allows admin to add a special price to a product.
 
 > **Note**: This extension requires EverShop version 1.0.0-rc.6 or higher.
 

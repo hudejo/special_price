@@ -1,0 +1,13 @@
+{
+  "name": "@evershop/special_price",
+  "version": "1.0.0",
+  "description": "Special Price Extension for EverShop",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dezso Kancsar",
+  "license": "GNU GENERAL PUBLIC LICENSE 3.0",
+  "engines": {
+    "node": ">= 14.0.0"
+  }
+}

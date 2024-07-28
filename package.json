@@ -1,5 +1,5 @@
 {
-  "name": "@evershop/special_price",
+  "name": "@dezsok/special_price",
   "version": "1.0.0",
   "description": "Special Price Extension for EverShop",
   "scripts": {
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/hudejo/special_prise.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org"
   },
   "devDependencies": {
     "@jsdevtools/npm-publish": "^3.1.1"

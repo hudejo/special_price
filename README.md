@@ -9,7 +9,7 @@ This extension allows admin to add a special price to a product.
 ### Step 1: Install the extension using npm:
 
 ```bash
-npm install @evershop/special_price
+npm install @dezsok/special_price
 ```
 
 ### Step 2: Enable the extension
@@ -25,7 +25,7 @@ Edit the `config/default.json` file in the root directory of your EverShop insta
       ...,
       {
         "name": "special_price",
-        "resolve": "node_modules/@evershop/special_price",
+        "resolve": "node_modules/@dezsok/special_price",
         "enabled": true,
         "priority": 10
       }
